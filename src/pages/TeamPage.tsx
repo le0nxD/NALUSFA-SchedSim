@@ -45,7 +45,7 @@ export const TeamPage: React.FC = () => {
       role: "237006179",
       image:
         "https://i.pinimg.com/736x/74/86/4a/74864a16c2bae0d89bedfa630ed48e4f.jpg",
-      bio: "Bertanggung jawab atas pengembangan algoritma Shortest Job First (Non-preemptive) serta perhitungan otomatis waktu eksekusi.",
+      bio: "Bertanggung jawab atas pengembangan algoritma Shortest Job First serta perhitungan otomatis waktu eksekusi.",
       github: "https://github.com/Oxiliya",
       email: "237006179@student.unsil.ac.id",
     },

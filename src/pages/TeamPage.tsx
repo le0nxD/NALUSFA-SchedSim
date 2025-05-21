@@ -9,7 +9,7 @@ export const TeamPage: React.FC = () => {
       role: "237006152",
       image:
         "https://i.pinimg.com/736x/44/22/84/442284f2f68a587b407fd3c7e3e8a0e2.jpg",
-      bio: "Pengembang software dengan spesialisasi di web development dan sistem operasi.",
+      bio: "Fokus pada pengembangan antarmuka pengguna, perancangan tampilan yang responsif, serta implementasi halaman dan navigasi.",
       github: "https://github.com/le0nxD",
       email: "237006152@student.unsil.ac.id",
     },
@@ -27,7 +27,7 @@ export const TeamPage: React.FC = () => {
       role: "237006164",
       image:
         "https://i.pinimg.com/736x/c9/2b/27/c92b27d5dd338fa996df6d0ecce1f84e.jpg",
-      bio: "Penulis teknis yang fokus pada dokumentasi dan materi pembelajaran.",
+      bio: "Mengimplementasikan algoritma Round Robin dengan time quantum, serta mengoptimalkan logika preemptive untuk simulasi interaktif.",
       github: "https://github.com/x", // Pastikan ini URL GitHub yang valid jika ada
       email: "237006164@student.unsil.ac.id",
     },
@@ -36,7 +36,7 @@ export const TeamPage: React.FC = () => {
       role: "237006176",
       image:
         "https://i.pinimg.com/736x/dc/72/7b/dc727bec0d5b0c30a4068c02736e0a7a.jpg",
-      bio: "Arsitek sistem dengan pengalaman dalam perancangan sistem operasi.",
+      bio: "Menangani logika algoritma FCFS, validasi input pengguna, serta integrasi backend dengan visualisasi hasil simulasi",
       github: "https://github.com/Kai2446-cmyk",
       email: "237006176@student.unsil.ac.id",
     },
@@ -45,7 +45,7 @@ export const TeamPage: React.FC = () => {
       role: "237006179",
       image:
         "https://i.pinimg.com/736x/74/86/4a/74864a16c2bae0d89bedfa630ed48e4f.jpg",
-      bio: "Designer dengan fokus pada pengalaman pengguna dan interface yang intuitif.",
+      bio: "Bertanggung jawab atas pengembangan algoritma Shortest Job First (Non-preemptive) serta perhitungan otomatis waktu eksekusi.",
       github: "https://github.com/Oxiliya",
       email: "237006179@student.unsil.ac.id",
     },

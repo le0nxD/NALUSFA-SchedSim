@@ -3,7 +3,7 @@
 # 🧠⚙️ Process Scheduling Simulator  
 **An Interactive CPU Scheduling Visualizer**
 
-🔗 [Live Demo](https://nalusfa-schedsim.netlify.app/)  
+🔗 [Live Demo](nalusfa-schedsim.vercel.app/)  
 🚀 Built with React + TypeScript + Tailwind CSS
 
 </div>

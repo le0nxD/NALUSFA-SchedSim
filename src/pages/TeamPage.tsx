@@ -64,7 +64,7 @@ export const TeamPage: React.FC = () => {
         className="text-center space-y-3"
       >
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent pb-2">
-          TIM KAMI
+          TEAM KAMI
         </h1>
         <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto">
           Kenali individu-individu berbakat dan berdedikasi di balik
